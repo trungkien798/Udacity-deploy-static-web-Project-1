@@ -1,3 +1,3 @@
-CloudFront domain: https://d23btgvf9ddtfp.cloudfront.net/
-Website endpoint: http://trungkien-udacity.s3-website-us-east-1.amazonaws.com/
-S3 file: https://trungkien-udacity.s3.amazonaws.com/index.html
+CloudFront domain: https://d147yl5h6cmqop.cloudfront.net/
+Website endpoint: http://kienlt33-udacity.s3-website-us-east-1.amazonaws.com/index.html
+S3 file: https://kienlt33-udacity.s3.amazonaws.com/index.html
